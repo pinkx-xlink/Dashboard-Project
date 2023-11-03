@@ -119,6 +119,7 @@ h5 {
     grid-column: 1 / 2;
     display: grid;
     gap: 50px;
+    min-width: 200px;
 }
 
 .sidebar img {
