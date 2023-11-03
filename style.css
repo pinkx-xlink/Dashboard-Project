@@ -9,7 +9,7 @@
     grid-template-columns: 1fr 2fr;
 }
 
-.container div {
+.container div {  
     padding: 15px;
     font-size: 32px;
     /*add font family, font, and size*/
