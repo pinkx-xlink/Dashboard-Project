@@ -48,7 +48,10 @@ img {
     display: grid;
 }
 
-
+.search-btn {
+    border-radius: 30px;
+    border-style: none;
+}
 .header {
     background-image: linear-gradient(to right, pink, gray);
     grid-column: 2 / 6;
