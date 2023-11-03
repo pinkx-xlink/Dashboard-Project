@@ -131,6 +131,9 @@ h5 {
 .sidebar-btn {
     border-style: none;
 }
+.sidebar-btn:hover {
+    background-color: red;
+}
 sidebar li {
     float:right;
 }
