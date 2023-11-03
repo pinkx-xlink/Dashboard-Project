@@ -111,6 +111,9 @@ h5 {
     background-color:rgb(37, 24, 153);
     border-radius: 15px;
 }
+.menu button:hover {
+    background-color: red;
+}
 
 .sidebar {
     list-style: none;
